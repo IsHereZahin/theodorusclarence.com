@@ -27,7 +27,7 @@
     "@tanstack/react-query": "^5.18.1",
     "@tanstack/react-query-devtools": "^5.18.1",
     "@tanstack/react-table": "^8.10.7",
-    "axios": "^0.24.0",
+    "axios": "^0.28.0",
     "cloudinary-build-url": "^0.2.4",
     "clsx": "^1.2.1",
     "crypto": "^1.0.1",
